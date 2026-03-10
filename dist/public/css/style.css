@@ -1,19 +1,7 @@
-body {
-  color: #2f3e46;
-}
-
 h1 {
-  color: #1d3557;
+  color: blue;
 }
 
 p {
-  color: #3d405b;
-}
-
-a {
-  color: #006d77;
-}
-
-footer p {
-  color: #6c757d;
+  color: red;
 }
